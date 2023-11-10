@@ -23,7 +23,7 @@ If you want to make use of the dataset, please cite the following paper.
 }
 ```
 # Dataset explanation
-The dataset was split into a full and few-shot training set and development set. The splits (train, dev) consist of 1800 and 600 instances for the full set and 32 and 32 instances for the few-shot set, respectively. The test set is the same in both cases and consists of 601 instances.
+The dataset was split into a full and few-shot training set and development set. The splits (train, dev) consist of 1800 and 600 instances for the full set and 32 and 8 instances for the few-shot set, respectively. The test set is the same in both cases and consists of 601 instances.
 
 ![Dataset_split_counted](https://user-images.githubusercontent.com/47971884/229718175-c8a241c4-bb0c-4bf2-9434-8e155d006fbf.png)
 
